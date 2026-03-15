@@ -1,0 +1,56 @@
+# די למזיק — Generative Engine Optimization Map
+
+> אתר הדברה
+
+---
+
+## Pages
+
+### בית
+https://-4ed919db.zappy5.app
+חברת הדברה מקצועית בישראל עם פתרונות יעילים להדברת תיקנים, מקקים ומזיקים בבית. שירות מהיר, בטוח ומובטח. התקשרו עכשיו לייעוץ חינם!
+
+### שירותים
+https://-4ed919db.zappy5.app/services
+מגוון רחב של שירותי הדברה: תיקנים, מקקים, נמלים, עכברים ועוד. טכנולוגיות מתקדמות וחומרים ידידותיים לסביבה. גלו את הפתרון המושלם עבורכם!
+
+### תמחור
+https://-4ed919db.zappy5.app/pricing
+עיינו במחירון השקוף שלנו לשירותי הדברה. מבצעים מיוחדים, חבילות חסכון והצעות מחיר מותאמות אישית. קבלו את התמורה הטובה ביותר לכספכם!
+
+### צור קשר
+https://-4ed919db.zappy5.app/contact
+נציגינו זמינים עבורכם! התקשרו עכשיו לקביעת תור, ייעוץ מקצועי חינם או שירות חירום. זמינים 24/7 בכל רחבי הארץ. הפתרון למזיקים במרחק שיחה!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-4ed919db.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-4ed919db.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-4ed919db.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About די למזיק
+אתר הדברה
+
+## Target Audience
+
+## Industry
+שירותי הדברה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-4ed919db.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-4ed919db.zappy5.app/robots.txt
